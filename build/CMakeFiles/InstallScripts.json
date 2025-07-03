@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/CodeHintPP/build/cmake_install.cmake",
+		"F:/CodeHintPP/build/CodeHintLib/cmake_install.cmake",
+		"F:/CodeHintPP/build/CodeHintDemo/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
