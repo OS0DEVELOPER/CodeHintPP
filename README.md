@@ -129,27 +129,5 @@ More language support (Python, Java, etc.)
 
 👨‍💻 Author
 Om Tirkhunde
-🔗 GitHub Profile
+🔗 GitHub Profile https://github.com/OS0DEVELOPER
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ How to Add This to GitHub
-
-1. Open CMD:
-   ```bash
-   cd Folder/Dir
-   notepad README.md
-Paste the cleaned content above and save.
-
-Then run:
-
-bash
-Copy
-Edit
-git add README.md
-git commit -m "Add complete README with usage, install guide and example"
-git push
