@@ -141,7 +141,7 @@ Edit
 
 1. Open CMD:
    ```bash
-   cd F:\CodeHintPP
+   cd Folder/Dir
    notepad README.md
 Paste the cleaned content above and save.
 
